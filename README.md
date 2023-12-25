@@ -22,7 +22,5 @@ This full-stack job listing platform allows users to register, post, edit, and d
    ```bash
    git clone <repository-url>
    cd job-listing-platform
-### Install server dependencies:
-cd server
-npm install
+
 
